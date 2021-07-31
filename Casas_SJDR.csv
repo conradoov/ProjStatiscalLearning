@@ -25,7 +25,7 @@ Longatti Imoveis,Casa,Centro,5,3,2,1,120,5500
 Longatti Imoveis,Casa,Centro,2,1,0,0,110,1100
 Longatti Imoveis,Apt,Centro,2,1,1,0,67,1100
 Longatti Imoveis,Apt,Centro,5,1,1,0,130,3000
-Longatti Imoveis,Aluguel,Centro,3,1,0,0,96.1,3000
+Longatti Imoveis,Apt,Centro,3,1,0,0,96.1,3000
 Longatti Imoveis,Casa,Centro,5,2,0,0,242,5000
 Longatti Imoveis,Apt,Centro,4,1,0,0,,1800
 Krasis,Casa,Centro,4,2,0,0,,8000
@@ -77,7 +77,7 @@ Zanfer,Casa,Fabricas,3,2,0,2,115,1100
 Zanfer,Apt,Fabricas,2,2,0,0,110,1100
 Longatti Imoveis,Kitnet,Guarda-Mor,2,1,0,0,55,600
 Longatti Imoveis,Casa,Guarda-Mor,5,3,2,2,,3000
-Zanfer,Casa ,Guarda-Mor,3,3,2,1,,1700
+Zanfer,Casa,Guarda-Mor,3,3,2,1,,1700
 Zanfer,Casa,Lobao,2,2,1,1,,1000
 Longatti Imoveis,Apt,Matozinhos,3,1,1,0,130,1500
 Longatti Imoveis,Apt,Matozinhos,1,1,0,0,,1000
