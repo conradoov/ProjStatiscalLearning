@@ -7,8 +7,8 @@ Zanfer,Casa,Bom Pastor,2,1,0,1,,550
 Longatti Imoveis,Casa,Bonfim,3,1,1,1,97,1200
 Longatti Imoveis,Apt,Bonfim,3,1,0,0,80,990
 Longatti Imoveis,Apt,Bonfim,2,1,0,1,60,750
-Krasis,Apartamento,Bonfim,3,1,0,2,,850
-Krasis,Apartamento,Bonfim,3,2,0,1,,1300
+Krasis,Apt,Bonfim,3,1,0,2,,850
+Krasis,Apt,Bonfim,3,2,0,1,,1300
 Krasis,Casa,Bonfim,2,2,0,0,,1200
 Zanfer,Casa,Bonfim,2,1,0,1,,800
 Zanfer,Apt,Bonfim,3,3,1,2,,1750
@@ -30,15 +30,15 @@ Longatti Imoveis,Casa,Centro,5,2,0,0,242,5000
 Longatti Imoveis,Apt,Centro,4,1,0,0,,1800
 Krasis,Casa,Centro,4,2,0,0,,8000
 Krasis,Casa,Centro,2,1,0,0,,1300
-Krasis,Apartamento,Centro,4,1,0,0,,1350
-Krasis,Apartamento,Centro,2,2,0,0,,1500
+Krasis,Apt,Centro,4,1,0,0,,1350
+Krasis,Apt,Centro,2,2,0,0,,1500
 Krasis,Casa,Centro,3,1,2,1,,1800
 Krasis,Kitnet,Centro,1,1,0,0,,600
-Krasis,Apartamento,Centro,2,2,0,0,,2500
-Krasis,Apartamento,Centro,3,1,0,0,,1400
-Krasis,Apartamento,Centro,2,1,0,0,,780
-Krasis,Apartamento,Centro,3,1,0,0,,2000
-Krasis,Apartamento,Centro,3,1,0,0,,1800
+Krasis,Apt,Centro,2,2,0,0,,2500
+Krasis,Apt,Centro,3,1,0,0,,1400
+Krasis,Apt,Centro,2,1,0,0,,780
+Krasis,Apt,Centro,3,1,0,0,,2000
+Krasis,Apt,Centro,3,1,0,0,,1800
 Flavio Vitor Imoveis,Casa,Centro,3,1,0,0,,1400
 Flavio Vitor Imoveis,Apt,Centro,4,2,1,0,,1500
 Zanfer,Casa,Centro,1,1,0,0,,1100
@@ -66,10 +66,10 @@ Longatti Imoveis,Casa,Fabricas,2,2,0,1,70,850
 Longatti Imoveis,Kitnet,Fabricas,1,1,0,0,220,770
 Longatti Imoveis,Kitnet,Fabricas,1,1,0,0,220,770
 Longatti Imoveis,Apt,Fabricas,3,1,0,0,80,1100
-Krasis,Apartamento,Fabricas,2,1,1,0,,1100
-Krasis,Apartamento,Fabricas,3,2,0,0,,1300
-Krasis,Apartamento,Fabricas,3,1,1,0,,1000
-Krasis,Apartamento,Fabricas,1,1,0,0,,860
+Krasis,Apt,Fabricas,2,1,1,0,,1100
+Krasis,Apt,Fabricas,3,2,0,0,,1300
+Krasis,Apt,Fabricas,3,1,1,0,,1000
+Krasis,Apt,Fabricas,1,1,0,0,,860
 Flavio Vitor Imoveis,Apt,Fabricas,3,1,1,1,,1100
 Flavio Vitor Imoveis,Apt,Fabricas,2,1,0,0,,1000
 Flavio Vitor Imoveis,Apt,Fabricas,2,1,0,0,,700
@@ -81,12 +81,12 @@ Zanfer,Casa ,Guarda-Mor,3,3,2,1,,1700
 Zanfer,Casa,Lobao,2,2,1,1,,1000
 Longatti Imoveis,Apt,Matozinhos,3,1,1,0,130,1500
 Longatti Imoveis,Apt,Matozinhos,1,1,0,0,,1000
-Krasis,Apartamento,Matozinhos,2,1,0,0,,1200
+Krasis,Apt,Matozinhos,2,1,0,0,,1200
 Krasis,Casa,Matozinhos,2,1,0,0,,550
-Krasis,Apartamento,Matozinhos,2,1,0,0,,850
-Krasis,Apartamento,Matozinhos,4,2,1,1,,1500
+Krasis,Apt,Matozinhos,2,1,0,0,,850
+Krasis,Apt,Matozinhos,4,2,1,1,,1500
 Krasis,Casa,Matozinhos,3,1,0,0,,850
-Krasis,Apartamento,Matozinhos,2,1,0,0,,850
+Krasis,Apt,Matozinhos,2,1,0,0,,850
 Flavio Vitor Imoveis,Apt,Matozinhos,2,1,0,1,,550
 Flavio Vitor Imoveis,Apt,Matozinhos,3,2,0,1,,860
 Flavio Vitor Imoveis,Apt,Matozinhos,2,1,0,0,,900
@@ -101,8 +101,8 @@ Longatti Imoveis,Apt,Sao Caetano,3,1,0,0,69.62,880
 Longatti Imoveis,Apt,Sao Caetano,2,1,1,1,54,820
 Longatti Imoveis,Apt,Sao Geraldo,3,1,0,0,104.62,890
 Longatti Imoveis,Kitnet,Sao Judas Tadeu,1,1,1,0,,550
-Krasis,Apartamento,Sao Judas Tadeu,2,1,1,1,,1150
-Krasis,Apartamento,Sao Judas Tadeu,2,1,0,1,,1200
+Krasis,Apt,Sao Judas Tadeu,2,1,1,1,,1150
+Krasis,Apt,Sao Judas Tadeu,2,1,0,1,,1200
 Longatti Imoveis,Casa,Segredo,2,1,0,0,90,1000
 Krasis,Casa,Solar da serra,2,1,1,1,,1000
 Flavio Vitor Imoveis,Casa,Solar da Serra,3,1,1,1,,1200
@@ -113,10 +113,10 @@ Longatti Imoveis,Kitnet,Vila Belizario,1,1,0,1,16,550
 Longatti Imoveis,Apt,Vila Belizario,3,3,1,2,125,2350
 Longatti Imoveis,Apt,Vila Belizario,3,2,1,1,,1500
 Longatti Imoveis,Apt,Vila Belizario,3,2,1,1,,1500
-Krasis,Apartamento,Vila Belizario,3,1,1,1,,1500
-Krasis,Apartamento,Vila Belizario,3,1,1,1,,1190
+Krasis,Apt,Vila Belizario,3,1,1,1,,1500
+Krasis,Apt,Vila Belizario,3,1,1,1,,1190
 Flavio Vitor Imoveis,Apt,Vila Belizario,3,1,1,2,183,1400
-Krasis,Apartamento,Vila Joao Lombardi,3,1,1,1,,1200
+Krasis,Apt,Vila Joao Lombardi,3,1,1,1,,1200
 Longatti Imoveis,Casa,Vila Marchetti,3,1,0,1,95.1,1350
 Flavio Vitor Imoveis,Apt,Vila Marchetti ,3,2,1,2,,2400
 Zanfer,Apt,Vila Marchetti ,2,3,1,2,110,1200
