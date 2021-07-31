@@ -25,7 +25,7 @@ Longatti Imoveis;Casa;Centro;5;3;2;1;120;5500
 Longatti Imoveis;Casa;Centro;2;1;0;0;110;1100
 Longatti Imoveis;Apt;Centro;2;1;1;0;67;1100
 Longatti Imoveis;Apt;Centro;5;1;1;0;130;3000
-Longatti Imoveis;Aluguel;Centro;3;1;0;0;96,1;3000
+Longatti Imoveis;Aluguel;Centro;3;1;0;0;96.1;3000
 Longatti Imoveis;Casa;Centro;5;2;0;0;242;5000
 Longatti Imoveis;Apt;Centro;4;1;0;0;;1800
 Krasis;Casa;Centro;4;2;0;0;;8000
@@ -97,9 +97,9 @@ Krasis;Casa;Pio XII;2;1;1;1;;1300
 Longatti Imoveis;Casa;Santa Cruz de Minas;3;1;1;1;122;900
 Longatti Imoveis;Apt;Santa Cruz de Minas;2;1;0;0;170;1100
 Longatti Imoveis;Casa;Santa Cruz de Minas;3;1;1;1;110;1500
-Longatti Imoveis;Apt;Sao Caetano;3;1;0;0;69,62;880
+Longatti Imoveis;Apt;Sao Caetano;3;1;0;0;69.62;880
 Longatti Imoveis;Apt;Sao Caetano;2;1;1;1;54;820
-Longatti Imoveis;Apt;Sao Geraldo;3;1;0;0;104,62;890
+Longatti Imoveis;Apt;Sao Geraldo;3;1;0;0;104.62;890
 Longatti Imoveis;Kitnet;Sao Judas Tadeu;1;1;1;0;;550
 Krasis;Apartamento;Sao Judas Tadeu;2;1;1;1;;1150
 Krasis;Apartamento;Sao Judas Tadeu;2;1;0;1;;1200
@@ -117,7 +117,7 @@ Krasis;Apartamento;Vila Belizario;3;1;1;1;;1500
 Krasis;Apartamento;Vila Belizario;3;1;1;1;;1190
 Flavio Vitor Imoveis;Apt;Vila Belizario;3;1;1;2;183;1400
 Krasis;Apartamento;Vila Joao Lombardi;3;1;1;1;;1200
-Longatti Imoveis;Casa;Vila Marchetti;3;1;0;1;95,1;1350
+Longatti Imoveis;Casa;Vila Marchetti;3;1;0;1;95.1;1350
 Flavio Vitor Imoveis;Apt;Vila Marchetti ;3;2;1;2;;2400
 Zanfer;Apt;Vila Marchetti ;2;3;1;2;110;1200
 Krasis;Casa;Vila Nossa Senhora de Fatima;3;1;0;0;;700
