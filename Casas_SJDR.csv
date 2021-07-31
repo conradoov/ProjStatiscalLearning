@@ -1,0 +1,130 @@
+Imobiliaria;Tipo;Bairro;n_quartos;n_banheiros;n_suite;n_vagas;Area;Preço_Aluguel
+Zanfer;Apt;Agua Limpa;3;1;1;2;;1400
+Flavio Vitor Imoveis;Apt;Bela Vista;2;1;0;0;;690
+Zanfer;Casa;Bela Vista;2;1;0;0;;800
+Longatti Imoveis;Casa;Bom Pastor;3;1;0;2;;1000
+Zanfer;Casa;Bom Pastor;2;1;0;1;;550
+Longatti Imoveis;Casa;Bonfim;3;1;1;1;97;1200
+Longatti Imoveis;Apt;Bonfim;3;1;0;0;80;990
+Longatti Imoveis;Apt;Bonfim;2;1;0;1;60;750
+Krasis;Apartamento;Bonfim;3;1;0;2;;850
+Krasis;Apartamento;Bonfim;3;2;0;1;;1300
+Krasis;Casa;Bonfim;2;2;0;0;;1200
+Zanfer;Casa;Bonfim;2;1;0;1;;800
+Zanfer;Apt;Bonfim;3;3;1;2;;1750
+Longatti Imoveis;Kitnet;Caieiras;1;1;0;1;;700
+Longatti Imoveis;Kitnet;Caieiras;1;1;0;1;;800
+Flavio Vitor Imoveis;Casa;Caieiras;3;1;1;2;190;1800
+Longatti Imoveis;Casa;Centro;3;2;0;0;92;1400
+Longatti Imoveis;Casa;Centro;4;2;0;0;210;3800
+Longatti Imoveis;Casa;Centro;2;1;0;0;80;650
+Longatti Imoveis;Casa;Centro;7;3;0;10;380;12000
+Longatti Imoveis;Apt;Centro;3;1;1;1;110;2350
+Longatti Imoveis;Kitnet;Centro;1;1;0;0;25;1200
+Longatti Imoveis;Casa;Centro;5;3;2;1;120;5500
+Longatti Imoveis;Casa;Centro;2;1;0;0;110;1100
+Longatti Imoveis;Apt;Centro;2;1;1;0;67;1100
+Longatti Imoveis;Apt;Centro;5;1;1;0;130;3000
+Longatti Imoveis;Aluguel;Centro;3;1;0;0;96,1;3000
+Longatti Imoveis;Casa;Centro;5;2;0;0;242;5000
+Longatti Imoveis;Apt;Centro;4;1;0;0;;1800
+Krasis;Casa;Centro;4;2;0;0;;8000
+Krasis;Casa;Centro;2;1;0;0;;1300
+Krasis;Apartamento;Centro;4;1;0;0;;1350
+Krasis;Apartamento;Centro;2;2;0;0;;1500
+Krasis;Casa;Centro;3;1;2;1;;1800
+Krasis;Kitnet;Centro;1;1;0;0;;600
+Krasis;Apartamento;Centro;2;2;0;0;;2500
+Krasis;Apartamento;Centro;3;1;0;0;;1400
+Krasis;Apartamento;Centro;2;1;0;0;;780
+Krasis;Apartamento;Centro;3;1;0;0;;2000
+Krasis;Apartamento;Centro;3;1;0;0;;1800
+Flavio Vitor Imoveis;Casa;Centro;3;1;0;0;;1400
+Flavio Vitor Imoveis;Apt;Centro;4;2;1;0;;1500
+Zanfer;Casa;Centro;1;1;0;0;;1100
+Zanfer;Casa;Centro;3;1;1;0;;1500
+Longatti Imoveis;Casa;Cidade Verde;3;2;1;1;103;1700
+Longatti Imoveis;Apt;Colonia do Marcal;3;1;1;0;100;990
+Flavio Vitor Imoveis;Casa;Colonia do Marcal;5;4;2;4;;7000
+Flavio Vitor Imoveis;Casa;Colonia do Marcal;2;1;0;1;52;650
+Flavio Vitor Imoveis;Casa;Colonia do Marcal;2;2;1;1;;1350
+Flavio Vitor Imoveis;Apt;Colonia do Marcal;2;1;0;1;;700
+Flavio Vitor Imoveis;Apt;Colonia do Marcal;3;1;0;2;;1300
+Flavio Vitor Imoveis;Casa;Colonia do Marcal;2;1;0;1;;850
+Zanfer;Casa;Colonia do Marcal;2;1;0;0;;750
+Longatti Imoveis;Kitnet;Colonia do Marcal;2;1;0;0;0;600
+Longatti Imoveis;Kitnet;Dom Bosco;1;1;0;0;23;650
+Longatti Imoveis;Kitnet;Dom Bosco;1;1;0;0;14;700
+Longatti Imoveis;Kitnet;Dom Bosco;1;1;0;0;16;800
+Longatti Imoveis;Kitnet;Dom Bosco;1;1;0;0;40;1100
+Flavio Vitor Imoveis;Apt;Dom Bosco;1;1;0;0;;650
+Flavio Vitor Imoveis;Apt;Dom Bosco;2;1;1;1;;1300
+Zanfer;Kitnet;Dom Bosco;1;1;0;0;;650
+Longatti Imoveis;Kitnet;Fabricas;0;1;0;0;28;1000
+Longatti Imoveis;Kitnet;Fabricas;1;1;0;0;27;1050
+Longatti Imoveis;Casa;Fabricas;2;2;0;1;70;850
+Longatti Imoveis;Kitnet;Fabricas;1;1;0;0;220;770
+Longatti Imoveis;Kitnet;Fabricas;1;1;0;0;220;770
+Longatti Imoveis;Apt;Fabricas;3;1;0;0;80;1100
+Krasis;Apartamento;Fabricas;2;1;1;0;;1100
+Krasis;Apartamento;Fabricas;3;2;0;0;;1300
+Krasis;Apartamento;Fabricas;3;1;1;0;;1000
+Krasis;Apartamento;Fabricas;1;1;0;0;;860
+Flavio Vitor Imoveis;Apt;Fabricas;3;1;1;1;;1100
+Flavio Vitor Imoveis;Apt;Fabricas;2;1;0;0;;1000
+Flavio Vitor Imoveis;Apt;Fabricas;2;1;0;0;;700
+Zanfer;Casa;Fabricas;3;2;0;2;115;1100
+Zanfer;Apt;Fabricas;2;2;0;0;110;1100
+Longatti Imoveis;Kitnet;Guarda-Mor;2;1;0;0;55;600
+Longatti Imoveis;Casa;Guarda-Mor;5;3;2;2;;3000
+Zanfer;Casa ;Guarda-Mor;3;3;2;1;;1700
+Zanfer;Casa;Lobao;2;2;1;1;;1000
+Longatti Imoveis;Apt;Matozinhos;3;1;1;0;130;1500
+Longatti Imoveis;Apt;Matozinhos;1;1;0;0;;1000
+Krasis;Apartamento;Matozinhos;2;1;0;0;;1200
+Krasis;Casa;Matozinhos;2;1;0;0;;550
+Krasis;Apartamento;Matozinhos;2;1;0;0;;850
+Krasis;Apartamento;Matozinhos;4;2;1;1;;1500
+Krasis;Casa;Matozinhos;3;1;0;0;;850
+Krasis;Apartamento;Matozinhos;2;1;0;0;;850
+Flavio Vitor Imoveis;Apt;Matozinhos;2;1;0;1;;550
+Flavio Vitor Imoveis;Apt;Matozinhos;3;2;0;1;;860
+Flavio Vitor Imoveis;Apt;Matozinhos;2;1;0;0;;900
+Zanfer;Casa;Matozinhos;2;1;0;0;;830
+Zanfer ;Apt;Matozinhos;2;2;0;0;;850
+Flavio Vitor Imoveis;Apt;Parque Real;3;1;1;2;;900
+Krasis;Casa;Pio XII;2;1;1;1;;1300
+Longatti Imoveis;Casa;Santa Cruz de Minas;3;1;1;1;122;900
+Longatti Imoveis;Apt;Santa Cruz de Minas;2;1;0;0;170;1100
+Longatti Imoveis;Casa;Santa Cruz de Minas;3;1;1;1;110;1500
+Longatti Imoveis;Apt;Sao Caetano;3;1;0;0;69,62;880
+Longatti Imoveis;Apt;Sao Caetano;2;1;1;1;54;820
+Longatti Imoveis;Apt;Sao Geraldo;3;1;0;0;104,62;890
+Longatti Imoveis;Kitnet;Sao Judas Tadeu;1;1;1;0;;550
+Krasis;Apartamento;Sao Judas Tadeu;2;1;1;1;;1150
+Krasis;Apartamento;Sao Judas Tadeu;2;1;0;1;;1200
+Longatti Imoveis;Casa;Segredo;2;1;0;0;90;1000
+Krasis;Casa;Solar da serra;2;1;1;1;;1000
+Flavio Vitor Imoveis;Casa;Solar da Serra;3;1;1;1;;1200
+Flavio Vitor Imoveis;Apt;Solar da Serra;3;1;0;1;;800
+Krasis;Casa;Tejuco;3;1;1;2;;2500
+Zanfer;Apt;Tejuco;3;2;1;0;;1200
+Longatti Imoveis;Kitnet;Vila Belizario;1;1;0;1;16;550
+Longatti Imoveis;Apt;Vila Belizario;3;3;1;2;125;2350
+Longatti Imoveis;Apt;Vila Belizario;3;2;1;1;;1500
+Longatti Imoveis;Apt;Vila Belizario;3;2;1;1;;1500
+Krasis;Apartamento;Vila Belizario;3;1;1;1;;1500
+Krasis;Apartamento;Vila Belizario;3;1;1;1;;1190
+Flavio Vitor Imoveis;Apt;Vila Belizario;3;1;1;2;183;1400
+Krasis;Apartamento;Vila Joao Lombardi;3;1;1;1;;1200
+Longatti Imoveis;Casa;Vila Marchetti;3;1;0;1;95,1;1350
+Flavio Vitor Imoveis;Apt;Vila Marchetti ;3;2;1;2;;2400
+Zanfer;Apt;Vila Marchetti ;2;3;1;2;110;1200
+Krasis;Casa;Vila Nossa Senhora de Fatima;3;1;0;0;;700
+Longatti Imoveis;Apt;Vila Santa Terezinha;3;1;1;0;129;1320
+Longatti Imoveis;Apt;Vila Santa Terezinha;3;1;1;1;80;1200
+Longatti Imoveis;Apt;Vila Sao Bento;2;1;0;0;;900
+Zanfer;Casa;Vila Santa Terezinha;1;1;0;0;;550
+Flavio Vitor Imoveis;Apt;Vila Tiradentes;2;1;0;1;;1200
+Flavio Vitor Imoveis;Apt;Vila Tiradentes;2;1;0;1;;1350
+Zanfer;Apt;Vila Tiradentes;2;1;0;1;65;1500
